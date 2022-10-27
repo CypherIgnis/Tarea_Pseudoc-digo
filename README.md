@@ -1,1 +1,1 @@
-# Tarea_Pseudoc-digo
+# Tarea_Pseudocódigo
